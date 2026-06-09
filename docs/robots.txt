@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diliberozirkl5vj.github.io/scripts-fifa-world-cup2026/sitemap.xml
